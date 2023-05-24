@@ -22,7 +22,7 @@ listItems.forEach((item, index)=>{
 
 //console.log(listItems);
 
-//Devuelven una HTMLColection
+//D 
 const listItems2 = document.getElementsByClassName('item')
 //Se tienen que convertir a Array para tener los métodos 
 //de los arrays

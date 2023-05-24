@@ -42,3 +42,16 @@ console.log(lista);
 const primerItem = lista.querySelector("li");
 primerItem.style.color = "blue";
 console.log(primerItem);
+
+
+
+const miBoton = document.getElementsByTagName("button");
+const miParrafo = document.getElementById("demo");
+miParrafo.innerHTML = "Soy un texto";
+
+
+
+function hola(){
+document.getElementById('demo').innerHTML = "HOLA"
+}
+
